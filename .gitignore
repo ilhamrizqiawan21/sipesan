@@ -25,3 +25,23 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Local configuration, dependencies, generated output, and sensitive data
+.env.*
+!.env.example
+vendor/
+node_modules/
+**/node_modules/
+*.sql
+*.sqlite
+*.sqlite3
+backups/
+logs/
+uploads/*
+!uploads/.gitignore
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+release/
