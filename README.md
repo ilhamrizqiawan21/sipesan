@@ -135,8 +135,8 @@ Pastikan perangkat sudah memiliki:
 ### 1. Clone atau salin project
 
 ```bash
-git clone <url-repository> mts-alihsan1
-cd mts-alihsan1
+git clone https://github.com/ilhamrizqiawan21/sipesan.git
+cd sipesan
 ```
 
 Jika project sudah berada di folder Laragon seperti `C:\laragon\www\mts-alihsan1`, cukup masuk ke folder tersebut.
@@ -244,7 +244,7 @@ http://localhost:8000
 Jika menggunakan Laragon, aplikasi juga dapat diakses melalui virtual host yang disediakan Laragon, misalnya:
 
 ```text
-http://mts-alihsan1.test
+http://sipesan.test
 ```
 
 ## Akun Login Awal
