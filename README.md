@@ -139,7 +139,7 @@ git clone https://github.com/ilhamrizqiawan21/sipesan.git
 cd sipesan
 ```
 
-Jika project sudah berada di folder Laragon seperti `C:\laragon\www\mts-alihsan1`, cukup masuk ke folder tersebut.
+Jika project sudah berada di folder Laragon seperti `C:\laragon\www\sipesan`, cukup masuk ke folder tersebut.
 
 ### 2. Install dependency PHP
 
